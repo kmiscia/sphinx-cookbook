@@ -17,7 +17,7 @@ provides         "sphinx::rpm"
 
 depends          "build-essential", ">= 1.1.2"
 
-depends          "mysql", ">= 6.0.0"
+depends          "mysql", "6.1.3"
 #depends          "mysql"
 
 depends          "percona"
